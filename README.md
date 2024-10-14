@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/arnabkaycee](github.com/arnabkaycee)
 
-- 📝 I regularly write articles on [https://arnabkaycee.github.io/](https://arnabkaycee.github.io/)
+- 📝 I sometimes write articles on [https://arnabkaycee.github.io/](https://arnabkaycee.github.io/)
 
 - 💬 Ask me about **Distributed Systems, Blockchain, DLT, Java, Cryptography, Security**
 
